@@ -30,6 +30,8 @@ Each factor is assigned a weight based on its importance in determining healthca
 
 Regions are scored on a scale from 1 to 5 for each factor. The weighted sum of these scores determines the overall healthcare suitability score for each region.
 
+WEBSITE LINK:- https://abiona-0lushola-jude.github.io/Ikeja-Healthcare-new-site/
+
 ### Color-Coding Scheme
 
 Once the suitability scores are calculated, regions are categorized as follows:
